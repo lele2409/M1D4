@@ -1,0 +1,122 @@
+.hf{
+    background-color: rgb(19, 25, 33);
+    padding: 20px;
+}
+.imgf{
+    width: 200px;
+}
+.imgh{   
+width: 150px;
+
+}
+body{
+    background-color: rgb(201, 198, 198);
+    padding: 0 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imagebody{
+    width: 100%;
+}
+.center{
+    text-align: center;
+}
+.downh{
+    color: whitesmoke;
+    background-color: rgb(35, 47, 62);
+    display: flex;
+}
+.upf{
+    color: whitesmoke;
+    background-color: rgb(35, 47, 62);
+    padding: 5px;
+}
+.prodotti{
+    display:flex;
+    justify-content: space-around;
+    padding-bottom: 10px;
+}
+.imgflex{
+    width: 23%;
+    border-radius: 10px;
+}
+#welcome{
+    background-color: #FF9B00 ;
+}
+.menu{
+    padding: 5px 10px;
+    margin: 0;
+    border: 1px;
+    border-right-style: solid;
+    border-right-color: #FF9B00;
+}
+.welcome{
+    padding: 10px;
+    color: whitesmoke;
+}
+#bgimage{
+    background-image: url(assets/bg-image.png);
+    width: 100%;
+    color: whitesmoke;
+    padding: 10px 0;
+    font-weight: bold;
+}
+.up{
+    margin-top: 0px;
+}
+.link{
+    color: rgb(49, 163, 162);
+    font-weight: bold;
+    font-size: 11pt;
+    text-decoration: none;
+    padding-left: 10px;
+}
+#back{
+    font-weight: bold;
+    color: whitesmoke;
+}
+.container{
+    background-color: whitesmoke;
+    margin: 16px 0
+}
+.pflex{
+    padding: 10px;
+    margin-bottom: 0;
+}
+#square{ 
+    margin-bottom: 16px;
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+}
+.minisquare{
+    width: 24%;
+    background-color: white;
+    padding-bottom: 20px;
+    }
+.prodottisquare{
+    width: 90%;
+    height: 100%;
+}
+.minisquare h3{
+    padding-left: 25px;
+}
+.caption{
+    padding: 15px;
+    margin-bottom: 20px;
+    padding-top: 0;
+    display: flex;
+}
+.minisquare a{
+    color: rgb(49, 163, 162);
+    font-weight: bold;
+    font-size: 9pt;
+    text-decoration: none;
+    margin-top: 20px;
+    padding-left: 25px;
+}
+figcaption{
+    font-size: 9pt;
+}
+.caption div{
+    padding: 0 10px;
+}
